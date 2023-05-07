@@ -43,6 +43,7 @@ limitations under the License.
     <module>flume-ng-kafka-sink</module>
     <module>flume-http-sink</module>
     <module>flume-hive-sink</module>
+      <module>flume-ng-clickhouse-sink</module>
   </modules>
 
   <profiles>
