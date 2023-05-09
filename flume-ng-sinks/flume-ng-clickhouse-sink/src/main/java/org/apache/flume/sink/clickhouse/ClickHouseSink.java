@@ -1,12 +1,5 @@
 package org.apache.flume.sink.clickhouse;
-/*
-creation_time     created_by        update_time       updated_by        Description
-----------------  ----------------  ----------------  ----------------  ------------------------------------------------------------
-202005            xlzhu@ips.com                                         flume sink for clickhouse database using Third-party drivers
-                                                                        references:https://clickhouse.tech/docs/en/interfaces/jdbc/
-																		           https://github.com/blynkkk/clickhouse4j
 
-*/
 import cc.blynk.clickhouse.ClickHouseConnectionImpl;
 import cc.blynk.clickhouse.ClickHouseDataSource;
 import cc.blynk.clickhouse.copy.CopyManager;

@@ -44,6 +44,7 @@ limitations under the License.
     <module>flume-http-sink</module>
     <module>flume-hive-sink</module>
       <module>flume-ng-clickhouse-sink</module>
+      <module>flume-ng-rocketmq-sink</module>
   </modules>
 
   <profiles>
